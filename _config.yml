@@ -278,6 +278,8 @@ exclude:
   - .sass-cache
   - README.md
   - yarn.lock
+  - licenses
+  - docs
 include:
   # - LICENSE.md
   - _pages

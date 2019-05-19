@@ -1,0 +1,24 @@
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "no-referrer"
+    X-Content-Type-Options = "nosniff"
+
+[[headers]]
+  for = "/assets/icomoon/fonts/*.woff"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/font-woff"
+
+[[headers]]
+  for = "/assets/icomoon/fonts/*.ttf"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Content-Type = "application/font-ttf"

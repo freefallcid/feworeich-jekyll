@@ -1,0 +1,13 @@
+# Optional: Redirect default Netlify subdomain to primary domain
+https://feworeich.netlify.com/* https://ferienwohnung-reich.at/:splat 301!
+http://feworeich.netlify.com/* https://ferienwohnung-reich.at/:splat 301!
+
+# /photos/*  https://drtom0.myds.me/photo/#!Albums 301
+# /photos/  https://drtom0.myds.me/photo/#!Albums 301
+# /fotos/*   https://drtom0.myds.me/photo/#!Albums 301
+
+/sitemap.xml.gz /sitemap.xml 301
+
+/atom /atom.xml 301
+/rss /atom.xml 301
+/feed.xml /atom.xml 301
