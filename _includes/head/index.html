@@ -2,6 +2,10 @@
 {% assign font_heading = site.font_heading | default:"Roboto Slab, Helvetica, Arial, sans-serif"  %}
 {% assign font         = site.font         | default:"Noto Sans, Helvetica, Arial, sans-serif" %}
 
+{% if jekyll.environment == 'production' and site.google_tagmanager %}
+  {% include head/gtm.html %}
+{% endif %}
+
 {% include head/meta.html %}
 {% include head/links.html %}
 {% include head/scripts.html %}
