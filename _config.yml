@@ -28,7 +28,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Urlaub im Ötztal.
+  Urlaub im Ötztal. <span style="color:red; font-weight: bold;">Dies ist noch eine Vorschau.
+  Die Webseite ist noch in Arbeit, wird aber bald komplett online sein.</span>
 
 # A list of keywords for your blog
 keywords:              []
