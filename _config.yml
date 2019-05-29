@@ -159,6 +159,7 @@ defaults:
 # google_analytics:      UA-XXXXXXXX-X
 
 # google_tagmanager: GTM-THWKCZV
+google_tagmanager: GTM-W2WTGR7
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.

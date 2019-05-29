@@ -4,7 +4,7 @@ title: Herzlich willkommen!
 description: >
   A page showing Hydejack-specific markdown content.
 # image: /assets/img/blog/example-content-iii.jpg
-noindex: true
+# noindex: true
 ---
 
 Wir dürfen Sie recht herzlich auf unserer neuen Webpräsenz willkommen heißen!
