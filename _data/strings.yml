@@ -10,48 +10,48 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
+home:                  Startseite
+pages:                 Seiten
+posts:                 Artikel
+about:                 Über
+related_posts:         Verwandte Artikel
+other_projects:        Andere Projekte
+comments:              Kommentare
+jump_to:               Springe zu
 navigation:            Navigation
-social:                Social
+social:                Sozial
 links:                 Links
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
+newer:                 Neuere Artikel
+older:                 Ältere Artikel
+back:                  Zurück
 permalink:             Permalink
 permalink_icon:        icon-link
-templates:             Templates (for web app)
+templates:             Vorlagen (für web app)
 present:               present
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Lade…
+redirecting:           Weiterleiten…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Lese mehr von <!--post_title-->
 
 cookies_banner:
   text:                >
-    This site uses cookies.
+    Diese Seite verwendet Cookies.
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Seite wurde nicht gefunden'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Es tut uns leid, die angeforderte Seite wurde nicht gefunden.
+    <!--home_link--> um es nochmal zu versuchen.
+  home_link:           Gehe zur Startseite
 
 error:
-  title:               Error
+  title:               Fehler
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Es tut uns leid, als wir <!--link--> laden wollten, trat ein Fehler auf.
 
 # Separators
 # ---------------------------------------------------------------------------------------
@@ -59,7 +59,7 @@ colon:                 ':'
 separator:             '|'
 category_start:        'in '
 category_spearator:    ' / '
-tag_start:             'on '
+tag_start:             '➼ '
 tag_separator:         ', '
 from_to_separator:     '–'
 

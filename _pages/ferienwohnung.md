@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Ferienwohnung
+title: Unsere Ferienwohnung am Ötzerberg
 permalink: /ferienwohnung/
 description: >
-  Details über unsere Ferienwohnung
-# hide_description: true
-# image: /assets/img/blog/hydejack-8.png
+  Erfahren Sie mehr über unsere Ferienwohnung
+hide_description: true
 ---
+
+![Wohnzimmer](/assets/img/fewo_wohnzimmer.jpg "Blick von der Couch aus"){:.lead}
 
 Wir stellen Ihnen eine schöne, modern eingerichtete Ferienwohnung für 2 bis maximal 4 Personen in ruhiger Lage auf der Sonnenseite des Wander- und Skigebietes von Oetz vor. Das Appartement ist bestens geeignet für Ihren Erholungsurlaub, Wanderurlaub, Bergurlaub, Skiurlaub oder Familienurlaub.
 
