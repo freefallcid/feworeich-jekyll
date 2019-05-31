@@ -1,1 +1,13 @@
 // This is deprecated. Modify CSS Custom Properties instead.
+
+@mixin line-height($number) {
+  line-height: #{ $number * $root-line-height + 'rem'};
+}
+
+@mixin margin-top($number) {
+  margin-top: #{ $number * $root-line-height + 'rem'};
+}
+
+@mixin margin-bottom($number) {
+  margin-bottom: #{ $number * $root-line-height + 'rem'};
+}

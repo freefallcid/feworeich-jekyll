@@ -48,16 +48,18 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Archiv
-    url:               /archiv/
-  - title:             Ferienwohnung
-    url:               /ferienwohnung/
-  - title:             Urlaub im Sommer
-    url:               /sommer/
-  - title:             Urlaub im Winter
-    url:               /winter/
-  - title:             Preise
-    url:               /preise/
+  - title:  Archiv
+    url:    /archiv/
+  - title:  Ferienwohnung
+    url:    /ferienwohnung/
+  - title:  Urlaub im Sommer
+    url:    /sommer/
+  - title:  Urlaub im Winter
+    url:    /winter/
+  - title:  Preise
+    url:    /preise/
+  - title:  Anreise
+    url:    /anreise/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -67,6 +69,8 @@ menu:
 #   - title:             Cookies Policy
 #     url:               /cookies-policy/
 legal:
+  - title:  Anreise
+    url:    /anreise/
   - title:  Kontakt
     url:    /kontakt/
   - title:  Impressum
@@ -119,6 +123,7 @@ defaults:
     values:
       layout:          post
       categories:      [neuigkeiten]
+      hide_description: true
       # accent_color:    rgb(38,139,210)
       # accent_image:
       #   background:    rgb(32,32,32)

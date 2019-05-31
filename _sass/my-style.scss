@@ -7,3 +7,75 @@
     margin: 1.5rem 0;
   }
 }
+
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0;
+}
+
+.btn {
+  background-color: #111;
+  border-radius:  0.125em;
+  border: 0;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $code-font-family;
+  font-size: ms(-1);
+  font-weight: bold;
+  line-height: 1.5;
+  padding: 0.5em 1em;
+  text-align: center;
+  text-decoration: none;
+
+  &:hover {
+    background-color: rgb(79,177,186);
+    color: #111;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: #fff;
+  }
+}
+
+form {
+  position: relative;
+  max-width: 100%;
+}
+
+label {
+  display: block;
+  width: 100%;
+  margin-top: 0;
+  @include margin-bottom(0.5);
+  font-family: $code-font-family;
+  font-size: ms(-1);
+}
+
+input,
+textarea {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 0.75em 0.5em;
+  vertical-align: top;
+  overflow: visible;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: ms(0);
+  background: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 0.25em;
+  -webkit-appearance: none;
+}
+
+textarea {
+  resize: vertical;
+}
+
+input[type="file"] {
+  width: 100%;
+}
+
