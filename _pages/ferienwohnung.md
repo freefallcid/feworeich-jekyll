@@ -7,9 +7,9 @@ description: >
 hide_description: true
 ---
 
-![Blick ins Wohnzimmer](/assets/img/fewo_wohnzimmer.jpg){:.lead}
+<!-- ![Blick ins Wohnzimmer](/assets/img/fewo_wohnzimmer.jpg){:.lead}
 Blick ins Wohnzimmer. Im Hintergrund ist die Kochnische zu sehen.
-{:.figure}
+{:.figure} -->
 
 Wir stellen Ihnen eine schöne, modern eingerichtete Ferienwohnung für 2 bis maximal 4 Personen in ruhiger Lage auf der Sonnenseite des Wander- und Skigebietes von Oetz vor. Das Appartement ist bestens geeignet für Ihren Erholungsurlaub, Wanderurlaub, Bergurlaub, Skiurlaub oder Familienurlaub.
 
