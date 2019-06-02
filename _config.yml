@@ -32,7 +32,13 @@ tagline:               >
   Die Webseite ist noch in Arbeit, wird aber bald komplett online sein.</span>
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [ferienwohnung, ötztal, ötz, ötzerberg, wandern, skifahren, modern]
+
+# reCAPTCHA keys
+reCaptcha:
+  siteKey: "6LfLrJkUAAAAAB0ew0bkJ9dglTAxq542R-lZc5r9"
+  secret: "BS1Boy1nHurrHEmnK5gZAUgudTQ6eoZK9Ff6PMy9lL8KRgvYkZ21XNb6e2IRCHtG5wDhJb1SZ5bVctFCh/W9JHr/m09eQtvhpZBuOmcqLd8+cj4CtY8srVuwZ3zeP3w63UAeGied3sfHlObzM0CmBGw65cJB2Tav9p0tze/m/Hs="
+
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
