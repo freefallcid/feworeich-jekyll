@@ -23,8 +23,8 @@
     Access-Control-Allow-Origin = "*"
     Content-Type = "application/font-ttf"
 
-[[headers]]
-  for = "/assets/files/*.pdf"
-  [headers.values]
-    Content-Disposition = "attachment"
-    Content-Type = "application/pdf"
+# [[headers]]
+#   for = "/assets/files/*.pdf"
+#   [headers.values]
+#     Content-Disposition = "attachment"
+#     Content-Type = "application/pdf"
