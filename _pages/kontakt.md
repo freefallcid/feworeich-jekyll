@@ -61,7 +61,7 @@ Alternativ können Sie auch untenstehendes Formular verwenden.
   <script async src="https://www.google.com/recaptcha/api.js"></script>
   <div>
     <button id="submit" name="submit" type="submit" class="btn">Nachricht senden</button>
-    <button id="reset" name="reset" type="reset" class="btn">Eingaben zurücksetzen</button>
+    <!-- <button id="reset" name="reset" type="reset" class="btn">Eingaben zurücksetzen</button> -->
   </div>
   <div class="hidden">
     <label id="lblComment" for="comment">Nicht ausfüllen:
