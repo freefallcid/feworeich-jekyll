@@ -2,17 +2,13 @@
 https://feworeich.netlify.com/* https://ferienwohnung-reich.at/:splat 301!
 http://feworeich.netlify.com/* https://ferienwohnung-reich.at/:splat 301!
 
-# /photos/*  https://drtom0.myds.me/photo/#!Albums 301
-# /photos/  https://drtom0.myds.me/photo/#!Albums 301
-# /fotos/*   https://drtom0.myds.me/photo/#!Albums 301
-
 /sitemap.xml.gz /sitemap.xml 301
 
 /atom /atom.xml 301
 /rss /atom.xml 301
 /feed.xml /atom.xml 301
 
-## File redirects
+## File redirects (assets)
 
 /Hausordnung.pdf    /assets/files/Informationsblatt%20und%20Hausordnung.pdf
 /AGBH_061115.pdf    /assets/files/AGBH_061115.pdf
